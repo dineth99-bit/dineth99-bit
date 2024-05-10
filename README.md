@@ -25,10 +25,10 @@ I'm an enthusiastic research student deeply passionate about pushing the boundar
 ## Technologies 💻🛠️
 
 - **AI/ML**:
-  - **Deep Learning Frameworks**: TensorFlow, PyTorch
-  - **Natural Language Processing**: Hugging Face Transformers, NLTK, spaCy
-  - **Computer Vision**: OpenCV, PIL
-  - **Model Deployment**: TensorFlow Serving, ONNX
+  - **Deep Learning Frameworks**
+  - **Natural Language Processing**
+  - **Computer Vision**
+  - **Model Deployment**
 - **Electronics**: Arduino, Raspberry Pi, ESP32, STM32, SPC
 - **Software**:
   - **Development Environments**: Jupyter Notebook, VS Code
