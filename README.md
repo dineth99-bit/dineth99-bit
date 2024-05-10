@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 # AI/ML | Electronics | Full-stack Development | Research Hub 👩‍🔬🤖
 
-Welcome to my GitHub repository! Here, I explore the fascinating intersection of artificial intelligence, machine learning, electronics, and full-stack development. 🧠💡🖥️
-
 ## About Me 🙋‍♂️
 
-I'm an enthusiastic research student deeply passionate about pushing the boundaries of technology and innovation. This repository serves as a playground for my projects and experiments in AI/ML, electronics and full stack development projects.
+I'm an enthusiastic research student deeply passionate about pushing the boundaries of technology and innovation. This repository serves as a playground for my projects and experiments in AI/ML, electronics and full stack development projects. 🧠💡🖥️
 
 ## Technologies 💻🛠️
 
