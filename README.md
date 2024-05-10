@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# AI/ML and Electronics Research Hub 👩‍🔬🤖
+# AI/ML | Electronics | Full-stack Development | Research Hub 👩‍🔬🤖
 
 Welcome to my GitHub repository! Here, I explore the fascinating intersection of artificial intelligence, machine learning, electronics, and full-stack development. 🧠💡🖥️
 
