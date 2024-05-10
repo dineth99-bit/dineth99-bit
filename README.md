@@ -30,6 +30,7 @@ I'm an enthusiastic research student deeply passionate about pushing the boundar
   - **Computer Vision**
   - **Model Deployment**
 - **Electronics**: Arduino, Raspberry Pi, ESP32, STM32, SPC
+- **Hardware Descriptive Languages**: VHDL, Verilog, System Verilog
 - **Software**:
   - **Development Environments**: Jupyter Notebook, VS Code
   - **Version Control**: Git, GitHub
