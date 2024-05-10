@@ -22,15 +22,7 @@ Welcome to my GitHub repository! Here, I explore the fascinating intersection of
 
 I'm an enthusiastic research student deeply passionate about pushing the boundaries of technology and innovation. This repository serves as a playground for my projects and experiments in AI/ML and electronics.
 
-## Projects 🚀
-
-### Deep Learning Experiments
-- **AI Vision System**: An advanced vision system for robotics using convolutional neural networks (CNNs). 🤖👁️
-- **Time Series Prediction**: Implementing LSTM models to predict electrical load demands. ⏲️🔌
-
-### Electronics Prototyping
-- **Smart Home Devices**: Designing and prototyping IoT devices to automate home environments. 🏡✨
-- **Wearable Health Trackers**: Developing sensors and algorithms for real-time health monitoring. 🏃‍♂️💓
+## Technologies 💻🛠️
 
 ## Technologies 💻🛠️
 
@@ -38,6 +30,18 @@ I'm an enthusiastic research student deeply passionate about pushing the boundar
 - **Electronics**: Arduino, Raspberry Pi, ESP32
 - **Data Handling**: NumPy, Pandas
 - **Visualization**: Matplotlib, Seaborn
+- **Software**:
+  - **Development Environments**: Jupyter Notebook, VS Code
+  - **Version Control**: Git, GitHub
+  - **Simulation Software**: Proteus, LTspice
+  - **CAD Tools**: Eagle, KiCad for PCB design
+- **Full Stack Development**:
+  - **Frontend**: HTML, CSS, JavaScript, React
+  - **Backend**: Node.js, Express
+  - **Database**: MongoDB, SQL
+  - **DevOps**: Docker, AWS
+
+
 
 ## Collaborations 🤝
 
@@ -45,8 +49,8 @@ I'm always on the lookout for exciting collaborations. If you're interested in p
 
 ## Contact Me 📫
 
-- **Email**: [myemail@example.com](mailto:myemail@example.com)
-- **LinkedIn**: [MyLinkedInProfile](https://www.linkedin.com/in/myprofile)
+- **Email**: [dinethjkd00@gmail.com](dinethjkd00@gmail.com)
+- **LinkedIn**: [MyLinkedInProfile](https://www.linkedin.com/in/dineth-jayakody-30977b196/)
 
 ## Support 💖
 
