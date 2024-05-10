@@ -24,23 +24,21 @@ I'm an enthusiastic research student deeply passionate about pushing the boundar
 
 ## Technologies 💻🛠️
 
-## Technologies 💻🛠️
-
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
-- **Electronics**: Arduino, Raspberry Pi, ESP32
-- **Data Handling**: NumPy, Pandas
-- **Visualization**: Matplotlib, Seaborn
+- **AI/ML**:
+  - **Deep Learning Frameworks**: TensorFlow, PyTorch
+  - **Natural Language Processing**: Hugging Face Transformers, NLTK, spaCy
+  - **Computer Vision**: OpenCV, PIL
+  - **Model Deployment**: TensorFlow Serving, ONNX
+- **Electronics**: Arduino, Raspberry Pi, ESP32, STM32, SPC
 - **Software**:
   - **Development Environments**: Jupyter Notebook, VS Code
   - **Version Control**: Git, GitHub
   - **Simulation Software**: Proteus, LTspice
-  - **CAD Tools**: Eagle, KiCad for PCB design
+  - **CAD Tools**: Eagle, KiCad for PCB design, EagleCAD
 - **Full Stack Development**:
   - **Frontend**: HTML, CSS, JavaScript, React
   - **Backend**: Node.js, Express
   - **Database**: MongoDB, SQL
-  - **DevOps**: Docker, AWS
-
 
 
 ## Collaborations 🤝
