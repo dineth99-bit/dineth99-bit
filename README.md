@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # AI/ML and Electronics Research Hub 👩‍🔬🤖
 
-Welcome to my GitHub repository! Here, I explore the fascinating intersection of artificial intelligence, machine learning, and electronics. 🧠💡
+Welcome to my GitHub repository! Here, I explore the fascinating intersection of artificial intelligence, machine learning, electronics, and full-stack development. 🧠💡🖥️
 
 ## About Me 🙋‍♂️
 
-I'm an enthusiastic research student deeply passionate about pushing the boundaries of technology and innovation. This repository serves as a playground for my projects and experiments in AI/ML and electronics.
+I'm an enthusiastic research student deeply passionate about pushing the boundaries of technology and innovation. This repository serves as a playground for my projects and experiments in AI/ML, electronics and full stack development projects.
 
 ## Technologies 💻🛠️
 
