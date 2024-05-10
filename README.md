@@ -33,7 +33,6 @@ I'm an enthusiastic research student deeply passionate about pushing the boundar
 - **Hardware Descriptive Languages**: VHDL, Verilog, System Verilog
 - **Software**:
   - **Development Environments**: Jupyter Notebook, VS Code
-  - **Version Control**: Git, GitHub
   - **Simulation Software**: Proteus, LTspice
   - **CAD Tools**: Eagle, KiCad for PCB design, EagleCAD
 - **Full Stack Development**:
